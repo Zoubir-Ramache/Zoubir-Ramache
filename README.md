@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [ramache-zoubir.vercel.app/](ramache-zoubir.vercel.app/)
 
-- 💬 Ask me about **nextjs , ts **
+- 💬 Ask me about **nextjs , typescript, **
 
 - 📫 How to reach me **ramachezoubir@gmail.com**
 
