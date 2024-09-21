@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Ramache Zoubir</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 
-- 🌱 I’m currently learning **docker**
+- 🌱 I’m currently learning **django**
 
 - 👨‍💻 All of my projects are available at [ramache-zoubir.vercel.app/](https://ramache-zoubir.vercel.app/)
 
-- 💬 Ask me about **nextjs , typescript, **
+- 💬 Ask me about **nextjs , typescript, nestjs , linux **
 
 - 📫 How to reach me **ramachezoubir@gmail.com**
 
