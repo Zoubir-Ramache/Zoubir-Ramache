@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **django**
 
-- 👨‍💻 All of my projects are available at [ramache-zoubir.vercel.app/](https://ramache-zoubir.vercel.app/)
-
 - 💬 Ask me about **nextjs , typescript, nestjs , linux **
 
 - 📫 How to reach me **ramachezoubir@gmail.com**
