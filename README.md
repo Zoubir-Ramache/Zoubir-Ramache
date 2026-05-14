@@ -33,7 +33,7 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zoubir-Ramache&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Zoubir's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoubir-Ramache&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-seven-lilac-0aiehw3ec5.vercel.app/api?username=Zoubir-Ramache&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Zoubir's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-seven-lilac-0aiehw3ec5.vercel.app/api/top-langs/?username=Zoubir-Ramache&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </div>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zoubir-Ramache&theme=tokyonight&show_icons=true)
+https://github-readme-stats-seven-lilac-0aiehw3ec5.vercel.app/api?username=zoubir-ramache&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true
